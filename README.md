@@ -3,10 +3,6 @@
 A clean, modern, and responsive **profile card** built with pure HTML and CSS — no frameworks, no clutter, just elegant design.  
 This project is ideal for portfolio showcases, resume links, or personal branding pages.
 
-## 📸 Demo
-
-![Profile Card Screenshot](https://via.placeholder.com/800x400)
-
 ## 💡 Features
 
 - 🌐 Semantic HTML5 structure
@@ -21,6 +17,3 @@ This project is ideal for portfolio showcases, resume links, or personal brandin
 
 - HTML5
 - CSS3 (Flexbox + Gradient + Blur)
-
-## 📁 Folder Structure
-
